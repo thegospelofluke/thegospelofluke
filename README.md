@@ -1,4 +1,4 @@
 Anton Savinykh \
 Russia, Yekaterinburg \
-HTML/CSS \
+Web programmer (HTML and CSS so far) \
 Windows and Linux user
